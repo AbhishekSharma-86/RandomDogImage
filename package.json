@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "name": "dogimageproject",
+  "version": "1.0.0",
+  "description": "a website to fetch random dog image",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
